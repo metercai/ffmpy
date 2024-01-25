@@ -5,7 +5,7 @@ from setuptools.command.test import test as TestCommand  # noqa
 
 setup(
     name="ffmpy",
-    version=0.3.1,
+    version="0.3.1",
     description="A simple Python wrapper for ffmpeg",
     long_description=open("README.rst").read(),
     author="Andrii Yurchuk",
